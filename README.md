@@ -1,7 +1,5 @@
 ## Hi 👋 I'm Alex
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apgreene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### My Tech Stack
 
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg" />&nbsp;&nbsp;
