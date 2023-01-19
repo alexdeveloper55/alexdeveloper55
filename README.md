@@ -2,6 +2,7 @@
 
 ### My Tech Stack
 
+<img src="https://img.shields.io/badge/Python%20-%2300D8FF.svg" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript%20-%233178C6.svg" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React%20-%2300D8FF.svg" />&nbsp;&nbsp;
