@@ -17,4 +17,4 @@
 
 ### About me
 
-When I'm not creating apps and catching bugs I'm exploring new cities, playing football and making new friends!
+Software Engineer with a focus in full-stack development, seeking to shift towards back-end development. Looking for in-office, hybrid, or remote roles based in the US.
